@@ -1,0 +1,26 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    JUMP     c
+a:
+    COPYFROM 0
+    OUTBOX  
+b:
+c:
+    COMMENT  0
+    INBOX   
+    COPYTO   0
+    INBOX   
+    SUB      0
+    JUMPZ    a
+    JUMP     b
+
+
+DEFINE COMMENT 0
+eJyLY2BgeCHuLv5CPEzXSCRu2Q/B/JNAIQZbMRbRedIvrRLVAiac1jBaWaZVPG+BUUfgVjNH00O2b/m7
+HJydPBx/xbI5TZ3/0qHlIEgPQ4zrFP2Ytk6h6KoGjsjk6vywS1WfQ0RrbQPbOl39Ts846SO4YpaP8NYk
+/397tIPk9ymHPt8uFeG5ri/mwQSuOL9mq7hLVbKxTJNkY9cseRq/e5d/0ucDOcktByNTLu0HGb+4qKXm
+bglX46/Sk92zS1dNP1DMtiax2HG/X8myQzvKIo6A1HSUnQ4G0ds7UjsmdT2YENB9cM7HriVbSzvzT7p2
+Ht1W35256HN/wATpySu6Lk5zbn833bl9zQzxLquZkyetmRFxhHvm3uPhs/xOlMz2O2E0p+ooyCz59bNt
+LFevCjq6zLvsxtLJk9iXGcx5tFxjrcta88MgeZWdl0wFd822YTxwMLz98L/yZ4e/djw7bDAn69Dhlf0H
+LmzatBNiTs7Nrx0g+sWtf3sYRsEoGCQAADU/qLw;
+
